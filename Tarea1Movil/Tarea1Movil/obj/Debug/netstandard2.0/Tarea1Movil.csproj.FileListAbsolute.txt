@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\bin\Debug\netstandard2.0\Tarea1Movil.deps.json
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\bin\Debug\netstandard2.0\Tarea1Movil.dll
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\bin\Debug\netstandard2.0\ref\Tarea1Movil.dll
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\bin\Debug\netstandard2.0\Tarea1Movil.pdb
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.dll
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\ref\Tarea1Movil.dll
+C:\Users\Dell\Desktop\Tarea1Movil\Tarea1Movil\Tarea1Movil\obj\Debug\netstandard2.0\Tarea1Movil.pdb
